@@ -44,7 +44,7 @@ def cover():
     time.sleep(1)
     print " "
     print RR+"  +============================================+"
-    print GG+"  |       HACK FACEBOOK By Angel Del Villar   |"
+    print GG+"  |       HACK FACEBOOK By Angel Del Villar    |"
     print RR+"  +============================================+"
     print WW+"  |            Script BY: Angel Del Villar     |"
     print GG+"  |              Reza antes de usar            |"
