@@ -1,7 +1,7 @@
 ### 🔮Facebook-Brute-ID🔮
 
 ###### ¿Facebook-Brute-ID?
-###### Herramienta útil para chackear una cuenta con fines educativos ,esta te da el acceso al FB cuando la pass es vulnerable y poco segura.
+###### Herramienta útil para chackear una cuenta con fines educativos ,esta te da el acceso al FB cuando la pass es vulnerable y poco segura esto se obtienepor medio del id del FB.
 
 ### 🔮 INSTALACION: 🔮
 
